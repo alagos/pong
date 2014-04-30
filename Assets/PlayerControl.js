@@ -13,4 +13,5 @@ function Update () {
 	}else{
 		rigidbody2D.velocity.y = 0;
 	}
+  rigidbody2D.velocity.x = 0;
 }
