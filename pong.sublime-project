@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/Users/Juan/Documents/pong",
+			"file_exclude_patterns":
+			[
+				"*.dll",
+				"*.meta"
+			],
+		    "folder_exclude_patterns": 
+		    [
+		    	"Temp",
+		    	"Library"
+		    ]
+		}
+	]
+}
